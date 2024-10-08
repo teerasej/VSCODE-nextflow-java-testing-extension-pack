@@ -2,7 +2,7 @@
     "name": "nextflow-java-testing-pack",
     "displayName": "Nextflow's Java Testing Extension Pack",
     "description": "An extension pack that help you prepare your machine for testing your Java project, (VSCode Icons theme included)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "teerasej",
     "engines": {
         "vscode": "^1.41.0"
@@ -23,8 +23,7 @@
         "donjayamanne.githistory", 
         "formulahendry.auto-close-tag", 
         "formulahendry.auto-complete-tag", 
-        "formulahendry.auto-rename-tag", 
-        "msjsdiag.debugger-for-chrome",
+        "formulahendry.auto-rename-tag",
         "vscode-icons-team.vscode-icons"
     ]
 }
